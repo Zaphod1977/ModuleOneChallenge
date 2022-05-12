@@ -1,6 +1,6 @@
 # Code Refactor for Horiseon (aka Module 1 challenge)
 
-This was a tidy up job increase the neatness and readability of the code as well as add accessability features to the site.
+This was a tidy up job to increase the neatness and readability of the code as well as add accessability features to the site.
 
 Items of attention were:
 
