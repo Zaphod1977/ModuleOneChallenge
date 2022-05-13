@@ -15,7 +15,7 @@ Items of attention were:
     -css element grouping improvements 
     -css naming/notation
 
-[gitlab](gitlab hosted link) <a href="https://zaphod1977.github.io/ModuleOneChallenge/">My repository</a>
+[gitlab](gitlab hosted link) <a href="https://zaphod1977.github.io/ModuleOneChallenge/">Website link</a>
 
 ! [screenshot](/assets/images/Horiseon%20Marketing.png) <img src=".assets/images/Horiseon%20Marketing.png" alt="screenshot of webpage" title="Horiseon"/>
 
