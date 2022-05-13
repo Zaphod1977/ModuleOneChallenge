@@ -15,57 +15,8 @@ Items of attention were:
     -css element grouping improvements 
     -css naming/notation
 
-These are the existing commits to this date (5/12/22)
+[gitlab](gitlab hosted link) <a href="https://zaphod1977.github.io/ModuleOneChallenge/">My repository</a>
 
-alt image tags added to all images
+! [screenshot](/assets/images/Horiseon%20Marketing.png) <img src=".assets/images/Horiseon%20Marketing.png" alt="screenshot of webpage" title="Horiseon"/>
 
-@Zaphod1977
-Zaphod1977 committed 16 hours ago
- 
-lite mod
 
-@Zaphod1977
-Zaphod1977 committed 17 hours ago
- 
-hero resize
-
-@Zaphod1977
-Zaphod1977 committed 17 hours ago
- 
-hero resize
-
-@Zaphod1977
-Zaphod1977 committed 17 hours ago
- 
-lite mods
-
-@Zaphod1977
-Zaphod1977 committed 17 hours ago
- 
-html semantic element improvements and mild html mod
-
-@Zaphod1977
-Zaphod1977 committed 17 hours ago
- 
-div markers organization
-
-@Zaphod1977
-Zaphod1977 committed 18 hours ago
- 
-css consolidation, organization, and markup
-
-@Zaphod1977
-Zaphod1977 committed 18 hours ago
- 
-Commits on May 7, 2022
-file corrections
-
-@Zaphod1977
-Zaphod1977 committed 5 days ago
- 
-initial push
-
-@Zaphod1977
-Zaphod1977 committed 5 days ago
-
-2022 Zaphod Bobbybrox productions (no rights reserved, lol)
