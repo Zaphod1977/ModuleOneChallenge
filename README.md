@@ -17,4 +17,4 @@ Items of attention were:
 
 [gitlab](gitlab hosted link) <a href="https://zaphod1977.github.io/ModuleOneChallenge/">Website link</a>
 
-! [Screengrab of website](/assets/images/Horiseon%20Marketing.png) 
+[Screengrab of website](/assets/images/Horiseon%20Marketing.png) 
